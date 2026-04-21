@@ -1,1 +1,1 @@
-Hola esto es u aprueba para mi protecto # proyecto-recetas
+Hola esto es una prueba para mi protecto # proyecto-recetas
